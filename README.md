@@ -36,9 +36,7 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/D/D/blob/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
