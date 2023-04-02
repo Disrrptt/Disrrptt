@@ -34,6 +34,11 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
   <a href="https://https://www.linkedin.com/in/gustavo-villeth-49762a24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/326359399859879937" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/D/D/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
