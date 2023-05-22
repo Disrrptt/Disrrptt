@@ -28,7 +28,7 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
 
 
 <div align="center"> 
-<a href="https://Disrrptt.github.io/Project-in-html-and-css/" target="_blank"><img src="https://raw.githubusercontent.com/Disrrptt/Project-in-html-and-css/logo.ico"</a>
+<a href="https://Disrrptt.github.io/CreditCard/" target="_blank"><img src="https://raw.githubusercontent.com/Disrrptt/CreditCard/main/logo.ico"</a>
  </div>
  
 
