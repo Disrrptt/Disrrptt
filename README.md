@@ -16,7 +16,7 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Disrrptt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<a href="https://leonardoszervinski.github.io/CreditCard/" target="_blank"><img src="https://raw.githubusercontent.com/LeonardoSzervinski/CreditCard/main/logo.ico"</a>
 </p>
 
 
