@@ -34,7 +34,7 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoSzervinski}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Disrrptt}/count.svg" /></p> 
 <br>
 </div>
 
