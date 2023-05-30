@@ -29,7 +29,7 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
 
 <div align="center">  
   <img width="450" height="195px" src="https://github-readme-stats.vercel.app/api?username=Disrrptt&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=000000" alt="Villeth github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSzervinski&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disrrptt&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=000000" />
 </div>
 
  
