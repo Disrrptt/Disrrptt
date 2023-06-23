@@ -2,7 +2,7 @@ Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
  
 - 🔭 Estudante de engenharia de software
 - 🌱 Estudando Java Script,HTML e CSS...
-- 🎓 Universidade Catolica De Brasilia (UCB)
+- 🎓3 Semestre na  Universidade Catolica De Brasilia (UCB) 
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
