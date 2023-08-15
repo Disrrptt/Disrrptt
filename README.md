@@ -30,4 +30,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disrrptt&" alt="disrrptt" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif"
+
+
+
+
+
+
+
+
+
+
+
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif"
