@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disrrptt&label=Profile%20views&color=0e75b6&style=flat" alt="disrrptt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/villeth__" target="blank"><img src="https://img.shields.io/twitter/follow/villeth__?logo=twitter&style=for-the-badge" alt="villeth__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GuhVilleth" target="blank"><img src="https://img.shields.io/twitter/follow/GuhVilleth?logo=twitter&style=for-the-badge" alt="GuhVilleth" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/villeth__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villeth__" height="30" width="40" /></a>
+<a href="https://twitter.com/GuhVilleth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GuhVilleth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/gustavocondevilleth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavocondevilleth/" height="30" width="40" /></a>
 <a href="https://instagram.com/guhvilleth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guhvilleth" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4bjPFDU8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4bjPFDU8" height="30" width="40" /></a>
