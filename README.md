@@ -1,83 +1,32 @@
-Oi eu sou Gustavo Villeth, aqui está um pouco do que faço ❤
- 
-- 🔭 Estudante de engenharia de software
-- 🌱 Estudando Java Script,HTML e CSS...
-- 🎓3 Semestre na  Universidade Catolica De Brasilia (UCB) 
+<h1 align="center">Hi 👋, I'm Gustavo Villeth, fourth semester software engineering student</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif"
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=disrrptt&label=Profile%20views&color=0e75b6&style=flat" alt="disrrptt" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="left"> <a href="https://twitter.com/villeth__" target="blank"><img src="https://img.shields.io/twitter/follow/villeth__?logo=twitter&style=for-the-badge" alt="villeth__" /></a> </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Disrrptt&bg_color=0d1117&color=FFFFFF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🌱 I’m currently learning **Frameworks, courses etc.**
 
+- 👯 I’m looking to collaborate on **JavaScript Projects**
 
-<div align="center">  
-  <img src="https://camo.githubusercontent.com/b1530825807a85fe322ca4c3919d0d2b81516bb3909a69bd3f5349ebf26d3b03/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6361726f6c626172626f7361313031267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" />
-</div>
+- 📫 How to reach me **gustavovilleth@gmail.com**
 
+- 🏎️ **Formula 1 Enthusiast**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/villeth__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villeth__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gustavocondevilleth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavocondevilleth/" height="30" width="40" /></a>
+<a href="https://instagram.com/guhvilleth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guhvilleth" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/4bjPFDU8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4bjPFDU8" height="30" width="40" /></a>
+</p>
 
-<div align="center">  
-  <img width="450" height="195px" src="https://github-readme-stats.vercel.app/api?username=Disrrptt&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=000000" alt="Villeth github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disrrptt&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=000000" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
- 
-<div align="center">
-<br><h2 align='center'><i>Visitors Count</i></h2></b> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Disrrptt}/count.svg" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disrrptt&show_icons=true&locale=en&layout=compact" alt="disrrptt" /></p>
 
-</div>
-<div align="center">
- <img  width="25%" height="120px" src="src/assets/to_readme/giphy.gif" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disrrptt&show_icons=true&locale=en" alt="disrrptt" /></p>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
- 
- 
-
-
-
-
-
-
-
-
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
-##
-
- 
- 
- 
-![asdasdasdasdasdasda GITIGIGITIITTIITT](https://user-images.githubusercontent.com/116782583/208207639-f412320e-c5ab-4c36-a9cb-f4d141fbdd4a.gif)
-
-
-
-
-
-   ##
-   
-  <a href="https://www.youtube.com/channel/UCnaCUt_HQM1MDMDKfskE9xg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Guhvilleth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavovilleth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/gustavo-villeth-49762a24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/326359399859879937" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-<br clear="both">
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disrrptt&" alt="disrrptt" /></p>
