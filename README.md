@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disrrptt&label=Profile%20views&color=0e75b6&style=flat" alt="disrrptt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/GuhVilleth" target="blank"><img src="https://img.shields.io/twitter/follow/GuhVilleth?logo=twitter&style=for-the-badge" alt="GuhVilleth" /></a> </p>
+
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
