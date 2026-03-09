@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gustavo Villeth, a eighth semester software engineering student</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Gustavo Villeth, a former software engineer </h1>
+<h3 align="center">A passionate  fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disrrptt&label=Profile%20views&color=0e75b6&style=flat" alt="disrrptt" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 👯 I’m looking to collaborate on **JavaScript Projects**
+- 👯 I’m looking to collaborate on **JavaScript, TypeScript, React and Next Projects**
 
-- 📫 How to reach me **gustavovilleth@gmail.com**
+- 📫 How to reach me **gustavovilleth8@gmail.com**
 
 - 🏎️ **Formula 1 Enthusiast**
 ⠀
